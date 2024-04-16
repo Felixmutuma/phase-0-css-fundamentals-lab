@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.header{
+ text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+
+#featured-property img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#featured-property figure {
+  text-align: center;
+}
+.pa{
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+#details{
+  display: flex;
+  justify-content: space-around;
+  background-color: red;
+}
